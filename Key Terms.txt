@@ -1,0 +1,31 @@
+Figure is the blank canvas that holds the whole picture.
+
+Axes is the actual chart area inside the canvas where the data is drawn.
+
+Pyplot is the Python module used to build the plots.
+
+Subplot is a single chart inside a grid of multiple charts.
+
+Title is the main heading at the top of the graph.
+
+Label is the text on the X or Y axis explaining what is being measured.
+
+Legend is the key box showing what each color or line stands for.
+
+Color is the hue used for your lines, bars, or points.
+
+Line Plot connects points with a line to show trends over time.
+
+Bar Chart uses bars to compare different categories.
+
+Scatter Plot places individual dots to show relationships between two variables.
+
+Histogram groups numbers into buckets to show frequency.
+
+Ticks are the small numbers or marks along the axes.
+
+Grid shows faint lines in the background to make reading values easier.
+
+DPI controls the image quality when saving your plot.
+
+Tight Layout automatically stops titles and labels from overlapping.
