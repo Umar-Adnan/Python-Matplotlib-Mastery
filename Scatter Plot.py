@@ -6,7 +6,7 @@ plt.scatter(
     study_hours,
     exam_scores,
     color = "Blue",
-    marker= "*",
+    marker= "^",
     label = "Student Data"
 )
 plt.xlabel("Hours Studied")
